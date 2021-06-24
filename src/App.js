@@ -1,7 +1,10 @@
+import React from 'react';
+import TarotCards from './components/TarotCards';
+
 function App() {
   return (
-    <div className="App">
-      
+    <div>
+      <TarotCards />
     </div>
   );
 }
